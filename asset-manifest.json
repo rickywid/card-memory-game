@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/card-memory-game/static/css/main.a7a9e55c.css",
+    "main.js": "/card-memory-game/static/js/main.96bbf013.js",
+    "static/js/787.c6f44005.chunk.js": "/card-memory-game/static/js/787.c6f44005.chunk.js",
+    "static/media/guile.mp3": "/card-memory-game/static/media/guile.56df36aac2151c7d2f03.mp3",
+    "static/media/honda.mp3": "/card-memory-game/static/media/honda.9ef6392439d2ae39c935.mp3",
+    "static/media/ryu.mp3": "/card-memory-game/static/media/ryu.19855bea630aa13c024b.mp3",
+    "static/media/intro.mp3": "/card-memory-game/static/media/intro.b9eb65eacf45498acbe2.mp3",
+    "static/media/sagat.png": "/card-memory-game/static/media/sagat.489010e22f53fc77d7a6.png",
+    "static/media/dhalsim.png": "/card-memory-game/static/media/dhalsim.f27d024a83acc7ddc987.png",
+    "static/media/balrog.png": "/card-memory-game/static/media/balrog.f7514382629094b94534.png",
+    "static/media/guile.png": "/card-memory-game/static/media/guile.34f0549a360de3479bc2.png",
+    "static/media/ryu.png": "/card-memory-game/static/media/ryu.de23ddfa72096cde6436.png",
+    "static/media/zangief.png": "/card-memory-game/static/media/zangief.17a47610a618657b7a2c.png",
+    "static/media/honda.png": "/card-memory-game/static/media/honda.b96a743243c4117d7487.png",
+    "static/media/bison.png": "/card-memory-game/static/media/bison.fca29eedb629f3aa82b7.png",
+    "static/media/ken.png": "/card-memory-game/static/media/ken.65640086f79098301234.png",
+    "static/media/chunli.png": "/card-memory-game/static/media/chunli.5cd8c877f803beeb8b29.png",
+    "static/media/victory.mp3": "/card-memory-game/static/media/victory.28640e8a5d10ae58ac8e.mp3",
+    "static/media/logo.png": "/card-memory-game/static/media/logo.ffa02cffefbb96326fb9.png",
+    "static/media/logo2.png": "/card-memory-game/static/media/logo2.fff4d5656eaa7d8f0922.png",
+    "static/media/perfect.mp3": "/card-memory-game/static/media/perfect.5b13e937eae81d84d671.mp3",
+    "index.html": "/card-memory-game/index.html",
+    "main.a7a9e55c.css.map": "/card-memory-game/static/css/main.a7a9e55c.css.map",
+    "main.96bbf013.js.map": "/card-memory-game/static/js/main.96bbf013.js.map",
+    "787.c6f44005.chunk.js.map": "/card-memory-game/static/js/787.c6f44005.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7a9e55c.css",
+    "static/js/main.96bbf013.js"
+  ]
+}
