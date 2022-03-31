@@ -11,7 +11,7 @@ This project is based off of [Card Memory Game](https://github.com/DevJamGroup/P
 - [Create React App](https://github.com/facebook/create-react-app)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Animate.css](https://animate.style/)
-- [Character Assets](https://streetfighter.fandom.com/wiki/Category:Street_Fighter_II_Characters
+- [Character Assets](https://streetfighter.fandom.com/wiki/Category:Street_Fighter_II_Characters)
 
 ## Local Development
 
