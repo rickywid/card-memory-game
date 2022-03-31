@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/card-memory-game/static/css/main.82f26217.css",
+    "main.css": "/card-memory-game/static/css/main.05b2a522.css",
     "main.js": "/card-memory-game/static/js/main.96bbf013.js",
     "static/js/787.c6f44005.chunk.js": "/card-memory-game/static/js/787.c6f44005.chunk.js",
     "static/media/guile.mp3": "/card-memory-game/static/media/guile.56df36aac2151c7d2f03.mp3",
@@ -22,12 +22,12 @@
     "static/media/logo2.png": "/card-memory-game/static/media/logo2.fff4d5656eaa7d8f0922.png",
     "static/media/perfect.mp3": "/card-memory-game/static/media/perfect.5b13e937eae81d84d671.mp3",
     "index.html": "/card-memory-game/index.html",
-    "main.82f26217.css.map": "/card-memory-game/static/css/main.82f26217.css.map",
+    "main.05b2a522.css.map": "/card-memory-game/static/css/main.05b2a522.css.map",
     "main.96bbf013.js.map": "/card-memory-game/static/js/main.96bbf013.js.map",
     "787.c6f44005.chunk.js.map": "/card-memory-game/static/js/787.c6f44005.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82f26217.css",
+    "static/css/main.05b2a522.css",
     "static/js/main.96bbf013.js"
   ]
 }
